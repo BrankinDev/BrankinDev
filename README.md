@@ -1,15 +1,12 @@
-# Hello, I´m Paulo André! 👋
+# Hello, I'm Paulo! 👋
 
-<!-- Banner de Introdução (Opcional) -->
+<!-- Banner de Introdução Corrigido -->
 <p align="center">
   <img src="https://vercel.app" width="100%" />
 </p>
 
 ## 🚀 About Me
-
-I'm a beginner in dev web and continue to do more things about programing like 
-integration with some ways to find more confortable enviroment to work, get skill
-to acknowlegde.
+I'm a beginner in dev web and continue to do more things about programing like integration with some ways to find more confortable enviroment to work, get skill to acknowlegde.
 
 * 🔭 Atualmente estou trabalhando em **LLM compasso**
 * 🌱 Aprendendo mais sobre **Javafx, Vue.js**
@@ -17,11 +14,11 @@ to acknowlegde.
 
 ---
 
-## 🛠️ Tecnologies and Tools
-<!-- Badges criados usando Shields.io e Simple Icons -->
+## 🛠️ Tecnologias and Tools
+<!-- Links dos Badges Corrigidos e Atualizados -->
 <p align="left">
-  <img src="https://shields.io" alt="C" />
   <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Vue.js" />
   <img src="https://shields.io" alt="HTML5" />
   <img src="https://shields.io" alt="CSS3" />
   <img src="https://shields.io" alt="Git" />
@@ -29,8 +26,8 @@ to acknowlegde.
 
 ---
 
-## 📊 GitHub´s Estatics
-<!-- Lembre-se de trocar "seu-usuario" pelo seu login real do GitHub -->
+## 📊 GitHub's Estatics
+<!-- Estatísticas vinculadas corretamente ao seu usuário BrankinDev -->
 <p align="center">
   <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
   <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
@@ -39,6 +36,7 @@ to acknowlegde.
 ---
 
 ## 🌐 Follow me on
+<!-- Substitua as palavras 'seu-usuario' abaixo pelo seu link real dessas redes sociais -->
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
