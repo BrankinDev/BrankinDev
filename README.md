@@ -26,9 +26,4 @@ I'm a beginner in dev web and continue to do more things about programing like i
 | 🐍 Python | 🟢 Vue.js | 💻 Git |
 | ☕ Java / JavaFX | 🌐 HTML5 & CSS3 | 🐙 GitHub |
 
-## 🌐 Follow me on
-
 ---
-
-* 💼 [Meu LinkedIn](https://linkedin.com)
-* 📸 [Meu Instagram](https://instagram.com)
