@@ -11,15 +11,7 @@ I'm a beginner in dev web and continue to do more things about programing like i
 
 ---
 
-## 🛠️ Tecnologias and Tools
-
-* 🐍 **Python**
-* 🟢 **Vue.js**
-* 🌐 **HTML5 & CSS3**
-* 💻 **Git & GitHub**
-
----
-## 🛠️ Tecnologias and Tools
+## 🛠️ Tecnologies and Tools
 
 | Linguagens | Frameworks & Web | Ferramentas |
 | :--- | :--- | :--- |
