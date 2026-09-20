@@ -1,4 +1,4 @@
-# Hello, I´m Paulo! 👋
+# Hello, I´m BrankinDev! 👋
 
 <!-- Banner de Introdução (Opcional) -->
 <p align="center">
