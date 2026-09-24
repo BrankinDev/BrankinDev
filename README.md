@@ -7,7 +7,6 @@ I'm a beginner in dev web and continue to do more things about programing like i
 
 * 🔭 **Atualmente:** trabalhando em Mvp´s
 * 🌱 **Aprendendo mais sobre:** Javafx, Vue.js
-* 💬 **Pergunte-me sobre:** Desenvolvimento Front-End
 
 ---
 
