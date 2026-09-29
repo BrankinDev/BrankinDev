@@ -10,7 +10,7 @@ I'm a beginner in dev web and continue to do more things about programing like i
 
 ---
 
-## 🛠️ Learming about these technologies and Ttools
+## 🛠️ Learning about these technologies and Ttools
 
 | Linguagens | Frameworks & Web | Ferramentas |
 | :--- | :--- | :--- |
